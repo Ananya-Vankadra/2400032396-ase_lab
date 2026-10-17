@@ -1,7 +1,6 @@
-
 import unittest
-from booking import calculate_ticket_price
 
+from booking import calculate_ticket_price
 
 class TestBooking(unittest.TestCase):
 
